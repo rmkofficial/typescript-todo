@@ -38,3 +38,8 @@ body {
 .todo-create-button:hover {
   background-color: yellow;
 }
+
+.icons {
+  font-size: 22px;
+  cursor: pointer;
+}
